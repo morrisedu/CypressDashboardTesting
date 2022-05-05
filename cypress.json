@@ -1,0 +1,10 @@
+{
+  "projectId": "ra8gaj",
+  "defaultCommandTimeout": 4000,
+  "pageLoadTimeout": 60000,
+  "viewportHeight": 768,
+  "viewportWidth": 1366,
+  "failOnStatusCode": false,
+  "chromeWebSecurity": false,
+  "videoUploadOnPasses": false
+}

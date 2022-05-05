@@ -1,0 +1,15 @@
+{
+  "name": "cypressdashboardtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "TeslaModelS": "npx cypress run --record --key c4cf0d2f-d640-4e7d-a678-dda03421b355 --spec 'cypress/integration/Tesla/Tesla.spec.js' "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
